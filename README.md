@@ -1,5 +1,5 @@
 # 3D-Vitkovice-Area
-Award winning project inGenious: Opensource 3D Werk project made by students of @zszatopkovych
+Finalist project inGenious: Opensource 3D Werk project made by students of @zszatopkovych
 
 ## Duration
 2009 - 2010
